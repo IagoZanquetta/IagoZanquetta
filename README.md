@@ -20,7 +20,7 @@
 
 Sou um profissional em transição para **Ciência de Dados**, com experiência prévia em **desenvolvimento backend**, integração com bancos de dados e automação de soluções web.
 
-Concluí o programa de **Cientista de Dados da TripleTen** e possuo formação em **Design com foco em Jogos e Entretenimento Digital pela UNIVALI**. Minha trajetória combina lógica de programação, análise de dados e construção de soluções práticas com tecnologias como **Python, SQL, Pandas, scikit-learn, PostgreSQL, Java e Spring Boot**.
+Concluí o programa **Bootcamp  em Ciência de Dados da TripleTen** e possuo formação em **Design com foco em Jogos e Entretenimento Digital pela UNIVALI**. Minha trajetória combina lógica de programação, análise de dados e construção de soluções práticas com tecnologias como **Python, SQL, Pandas, scikit-learn, PostgreSQL, Java e Spring Boot**.
 
 Atualmente, busco oportunidades como **Cientista de Dados Jr.**, **Analista de Dados Jr.** ou **Desenvolvedor Backend Jr.**, com preferência por ambientes **remotos** ou **híbridos**.
 
