@@ -67,7 +67,7 @@ Atualmente, busco oportunidades como **Cientista de Dados Jr.**, **Analista de D
 ## Projetos em destaque
 
 ### [Steelproof — Otimização do refinamento do aço](https://github.com/IagoZanquetta/steelproof-steel-refinement-project)
-Projeto final estruturado em três etapas — planejamento, desenvolvimento da solução e relatório final — com foco em análise de dados e modelagem para apoiar a otimização do processo de refinamento do aço em contexto industrial.
+Projeto estruturado em três etapas — planejamento, desenvolvimento da solução e relatório final — com foco em análise de dados e modelagem para apoiar a otimização do processo de refinamento do aço em contexto industrial.
 
 ### [Beta Bank — Previsão de churn de clientes](https://github.com/IagoZanquetta/beta-bank-churn-prediction)
 Projeto de machine learning para prever evasão de clientes bancários, com preparação de dados, comparação de modelos de classificação e avaliação de métricas voltadas à retenção.
