@@ -66,19 +66,17 @@ Atualmente, busco oportunidades como **Cientista de Dados Jr.**, **Analista de D
 
 ## Projetos em destaque
 
-### Ice — Análise de vendas de jogos
-Análise de dados históricos de vendas para identificar fatores associados ao sucesso comercial de jogos em diferentes regiões, utilizando Python, Pandas, visualização de dados e testes estatísticos.
+### [Steelproof — Otimização do refinamento do aço](https://github.com/IagoZanquetta/steelproof-steel-refinement-project)
+Projeto final estruturado em três etapas — planejamento, desenvolvimento da solução e relatório final — com foco em análise de dados e modelagem para apoiar a otimização do processo de refinamento do aço em contexto industrial.
 
-### Zuber — SQL e teste de hipóteses
-Investigação de dados de corridas, clima e bairros de Chicago com SQL e Python para identificar padrões de viagem e validar hipóteses estatísticas.
+### [Beta Bank — Previsão de churn de clientes](https://github.com/IagoZanquetta/beta-bank-churn-prediction)
+Projeto de machine learning para prever evasão de clientes bancários, com preparação de dados, comparação de modelos de classificação e avaliação de métricas voltadas à retenção.
 
-### Classificação de textos — Machine Learning
-Pipeline de preparação, normalização e modelagem para classificação textual, com uso de NLP, scikit-learn e métricas de avaliação.
+### [Film Junky Union — Análise de sentimento em avaliações de filmes](https://github.com/IagoZanquetta/film-junky-union-sentiment-analysis)
+Projeto de NLP e machine learning para classificar avaliações de filmes como positivas ou negativas, com preparação textual, modelagem e avaliação de desempenho.
 
-### Visão Computacional
-Projeto com preparação de imagens, treinamento e avaliação de modelo de deep learning em notebook.
-
-> Em breve, os repositórios estarão organizados e com documentação completa.
+### [Good Seed — Estimativa de idade com visão computacional](https://github.com/IagoZanquetta/good-seed-age-estimation)
+Projeto de deep learning e visão computacional para estimar idade a partir de imagens faciais, com aplicação voltada a apoio em verificação etária no varejo.
 
 ---
 
