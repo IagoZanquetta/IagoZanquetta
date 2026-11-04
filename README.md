@@ -1,6 +1,6 @@
 <h1 align="center">Iago Zanquetta do Amaral </h1>
 
-<h3 align="center">Cientista de Dados Jr. | Desenvolvedor Backend Jr.</h3>
+<h3 align="center">Cientista de Dados | Desenvolvedor Backend Jr.</h3>
 
 <p align="center">
   <a href="https://github.com/IagoZanquetta">
@@ -18,11 +18,11 @@
 
 ## Sobre mim
 
-Sou um profissional em transição para **Ciência de Dados**, com experiência prévia em **desenvolvimento backend**, integração com bancos de dados e automação de soluções web.
+Sou um profissional em **Ciência de Dados**, com experiência prévia em **desenvolvimento backend**, integração com bancos de dados e automação de soluções web.
 
-Concluí o programa **Bootcamp  em Ciência de Dados da TripleTen** e possuo formação em **Design com foco em Jogos e Entretenimento Digital pela UNIVALI**. Minha trajetória combina lógica de programação, análise de dados e construção de soluções práticas com tecnologias como **Python, SQL, Pandas, scikit-learn, PostgreSQL, Java e Spring Boot**.
+Concluí o programa **Bootcamp em Ciência de Dados da TripleTen** e possuo formação em **Design com foco em Jogos e Entretenimento Digital pela UNIVALI**. Minha trajetória combina lógica de programação, análise de dados e construção de soluções práticas com tecnologias como **Python, SQL, Pandas, scikit-learn, PostgreSQL, Java e Spring Boot**.
 
-Atualmente, busco oportunidades como **Cientista de Dados Jr.**, **Analista de Dados Jr.** ou **Desenvolvedor Backend Jr.**, com preferência por ambientes **remotos** ou **híbridos**.
+Atualmente, busco oportunidades como **Cientista de Dados**, **Analista de Dados** ou **Desenvolvedor Backend**, com preferência por ambientes **remotos** ou **híbridos**.
 
 ---
 
@@ -97,7 +97,7 @@ Projeto de deep learning e visão computacional para estimar idade a partir de i
 
 <p>
   <a href="mailto:iagozanquetta@hotmail.com">📧 Email</a><br>
-  <a href="https://www.linkedin.com/in/iago-zanquetta-7a229385/">💼 LinkedIn</a><br>
+  <a href="https://www.linkedin.com/in/iago-zanquetta/">💼 LinkedIn</a><br>
   <a href="https://github.com/IagoZanquetta">💻 GitHub</a>
 </p>
 
