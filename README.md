@@ -1,6 +1,6 @@
 <h1 align="center">Iago Zanquetta do Amaral </h1>
 
-<h3 align="center">Cientista de Dados | Desenvolvedor Backend Jr.</h3>
+<h3 align="center">Cientista de Dados | Desenvolvedor Backend</h3>
 
 <p align="center">
   <a href="https://github.com/IagoZanquetta">
